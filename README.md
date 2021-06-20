@@ -39,7 +39,12 @@
   <li><a href="https://www.hsslive.guru/kerala-syllabus-10th-standard-social-science-solutions/">Social Science</a></li>
   
 </ul>
-
+<h4>Technical subjects</h4>
+<p>The notes for Technical subjects are available as a single pdf.Hope you adjust with that 😅.</p>
+<ul>
+  <li><a href="ec.docx">Electrial</a></li>
+  <li><a href="es.pdf">Electronics</a></li>
+</ul>
 </body><br>
 <hr>
 </html>
